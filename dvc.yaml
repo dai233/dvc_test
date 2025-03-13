@@ -1,0 +1,7 @@
+artifacts:
+  lb:
+    path: model1/lb.pt
+    desc: loubo
+    type: model
+    labels:
+    - lb_detect
